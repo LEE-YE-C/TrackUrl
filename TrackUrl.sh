@@ -4,7 +4,7 @@
 #xterm -e ./ngrok http 80 & clear
 
 #32_Bit
-xterm -e ./ngrok http 80 & clear
+gnome-terminal -e
 
 
 echo "            ______________________________________________________   
